@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+magic-chat-ddf75-e3484fe17c32.json
 
 # Spyder project settings
 .spyderproject
