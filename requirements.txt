@@ -4,3 +4,4 @@ sse_starlette
 firebase-admin
 google-cloud-firestore
 python-dotenv
+stripe
