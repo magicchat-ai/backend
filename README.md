@@ -1,2 +1,2 @@
 # backend
-Backend written in Python Flask
+Backend written in Python FastAPI
